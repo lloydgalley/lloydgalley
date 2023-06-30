@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...project manager token development and deployment
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...listing, liquidity,farming 
-- 📫 How to reach me ...lloyd.galley@my-gold.io
+- 📫 How to reach me ...lloyd.galley@alltra.world
 
 <!---
 lloydgalley/lloydgalley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
